@@ -1,0 +1,24 @@
+.page-container{
+    position: relative;
+    background-image: url(background-img.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.content-wrap{
+    position: relative;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    
+    font-size: 35px;
+    color: royalblue;
+}
+
+.links{
+    font-size: 25px;
+    color: red;
+}
