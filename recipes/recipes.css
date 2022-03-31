@@ -1,0 +1,21 @@
+*{
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+img{
+    width: auto;
+    height: 300px;
+}
+
+h1,
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
+
+ol, ul{
+    font-style: italic;
+}
